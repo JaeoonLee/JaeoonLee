@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Moisty-Bot! An all purpose Discord Bot made specifically for my Discord channel!
+- 💬 Ask me about any of my private repositories!
 <!--
 **JaeoonLee/JaeoonLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
